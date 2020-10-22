@@ -1219,7 +1219,7 @@ section.lazy-placeholder:after {
 }
 .cid-sboghCyVA3 {
   padding-top: 30px;
-  padding-bottom: 45px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-sboghCyVA3 h4 {
@@ -1605,8 +1605,8 @@ section.lazy-placeholder:after {
   color: #7e14cc;
 }
 .cid-sboxwvoSne {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-sboxwvoSne .title {
@@ -2151,6 +2151,44 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-se93mmwx1z {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-se93mmwx1z .title {
+  padding-bottom: 2.5rem;
+}
+.cid-se93mmwx1z .mbr-text {
+  color: #767676;
+  margin: 0;
+  padding-top: 0.5rem;
+}
+.cid-se93mmwx1z .iconfont-wrapper {
+  display: flex;
+  align-items: center;
+  width: 2rem;
+  height: 2rem;
+  margin-right: 2rem;
+}
+.cid-se93mmwx1z .iconfont-wrapper .amp-iconfont {
+  font-size: 2rem;
+}
+.cid-se93mmwx1z .wrapper {
+  display: flex;
+  padding: 1rem 0;
+}
+.cid-se93mmwx1z .wrapper .b-info {
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .cid-se93mmwx1z .iconfont-wrapper {
+    display: none;
+  }
+}
+.cid-se93mmwx1z H2 {
+  color: #7e14cc;
+}
 .cid-sbAxLrMV0X {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2251,6 +2289,44 @@ section.lazy-placeholder:after {
   .cid-sbLrcRhqA2 .image-block {
     width: 100% !important;
   }
+}
+.cid-se93xN3v4q {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-se93xN3v4q .title {
+  padding-bottom: 2.5rem;
+}
+.cid-se93xN3v4q .mbr-text {
+  color: #767676;
+  margin: 0;
+  padding-top: 0.5rem;
+}
+.cid-se93xN3v4q .iconfont-wrapper {
+  display: flex;
+  align-items: center;
+  width: 2rem;
+  height: 2rem;
+  margin-right: 2rem;
+}
+.cid-se93xN3v4q .iconfont-wrapper .amp-iconfont {
+  font-size: 2rem;
+}
+.cid-se93xN3v4q .wrapper {
+  display: flex;
+  padding: 1rem 0;
+}
+.cid-se93xN3v4q .wrapper .b-info {
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .cid-se93xN3v4q .iconfont-wrapper {
+    display: none;
+  }
+}
+.cid-se93xN3v4q H2 {
+  color: #7e14cc;
 }
 .cid-sbo96XzSv0 .navbar {
   background: #3d0054;
